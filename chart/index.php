@@ -25,6 +25,10 @@
         {
             name: 'Diterima',
             data: [$jumlahditerima]
+        },
+        {
+            name: 'Tidak Diterima',
+            data: [$jumlahditerima]
         }
     ]
 };
